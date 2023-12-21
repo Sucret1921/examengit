@@ -1,4 +1,4 @@
-# Ciudades
+# Ciutats
 EL PERELLÓ
 1. Ciudad Gótica
 2. Metrópolis
